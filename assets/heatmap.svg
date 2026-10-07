@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="941" height="193" viewBox="0 0 941 193">
 <style>text{font:12px "SF Mono",Consolas,monospace;fill:#8b949e}.t{fill:#c9d1d9;font-size:13px}.c{opacity:0;animation:in .5s ease-out forwards}@keyframes in{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:none}}</style>
 <rect width="941" height="193" rx="10" fill="#0d1117"/>
-<text x="30" y="26" class="t">20 contributions in the last year</text>
+<text x="30" y="26" class="t">21 contributions in the last year</text>
 <rect class="c" style="animation-delay:0.0s" x="30" y="44" width="13" height="13" rx="3" fill="#161b22"><title>0 on 2025-10-05</title></rect>
 <rect class="c" style="animation-delay:0.025s" x="30" y="61" width="13" height="13" rx="3" fill="#161b22"><title>0 on 2025-10-06</title></rect>
 <rect class="c" style="animation-delay:0.05s" x="30" y="78" width="13" height="13" rx="3" fill="#161b22"><title>0 on 2025-10-07</title></rect>
@@ -368,5 +368,6 @@
 <rect class="c" style="animation-delay:1.425s" x="897" y="146" width="13" height="13" rx="3" fill="#161b22"><title>0 on 2026-10-03</title></rect>
 <rect class="c" style="animation-delay:1.3s" x="914" y="44" width="13" height="13" rx="3" fill="#161b22"><title>0 on 2026-10-04</title></rect>
 <rect class="c" style="animation-delay:1.325s" x="914" y="61" width="13" height="13" rx="3" fill="#161b22"><title>0 on 2026-10-05</title></rect>
-<rect class="c" style="animation-delay:1.35s" x="914" y="78" width="13" height="13" rx="3" fill="#161b22"><title>0 on 2026-10-06</title></rect>
+<rect class="c" style="animation-delay:1.35s" x="914" y="78" width="13" height="13" rx="3" fill="#2e1a6b"><title>1 on 2026-10-06</title></rect>
+<rect class="c" style="animation-delay:1.375s" x="914" y="95" width="13" height="13" rx="3" fill="#161b22"><title>0 on 2026-10-07</title></rect>
 </svg>
